@@ -26,3 +26,35 @@ I've learned how to use:
 
 ![first image](img/Screen1.jpg)
 ![second image](img/Screen2.jpg)
+
+## Run the project
+
+Make sure you have **git** and **python** installed.
+
+### Installation
+
+First of all clone this repository.
+
+```bash
+git clone https://github.com/Daniel203/Stock-Web-Application
+```
+
+Then enter inside the project directory.
+
+```bash
+cd Stock-Web-Application
+```
+
+And install all the requirements
+
+```bash
+pip[3] install -r requirements.txt
+```
+
+### Execution
+
+Now let's run the project and see the final result.
+
+```bash
+streamlit run script.py
+```
